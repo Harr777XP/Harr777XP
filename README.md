@@ -1,4 +1,5 @@
-Olá me chamo Ariel
+
+<h1><b>👨🏽Olá me chamo Ariel</b></h1>
 
 <p>📚 Cursando: Ensino Médio integrado ao técnico em período integral (M-Tec-PI) Informatica para internet</p>
 <p>🎂: 04/08/2009</p>
